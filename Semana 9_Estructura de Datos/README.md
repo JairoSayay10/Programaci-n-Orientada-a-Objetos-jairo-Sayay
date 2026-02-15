@@ -97,7 +97,7 @@ Este proyecto ayuda a practicar:
 
 ## 👤 Autor
 
-[Tu Nombre] - Estudiante de Programación
+[Jairo Estiven Sayay Alvarez] - Estudiante de Programación Orientada a Objetos
 
 ## 📝 Notas
 
